@@ -1,4 +1,4 @@
-### Eae 👋! Meu nome é Pedro Paulo! Sou graduando em Engenharia da Computação no IFCE e atualmente trabalho como desenvolvedor de software!
+### Eae 👋! Meu nome é Pedro Paulo! Sou graduado em Engenharia da Computação no IFCE e atualmente trabalho como desenvolvedor de software!
 
 <div align="left">
   <a href="https://www.linkedin.com/in/pedro-paulo-vitor-martins-18477420a/" target="_blank">
